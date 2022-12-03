@@ -1,14 +1,194 @@
-{
-  "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
-  }
+[{
+    "id": 1418208,
+    "title": "iRobot Roomba i4+ EVO 4550 Self-Emptying Robot Vacuum Refurb current Price $239.99",
+    "refLink": "https://www.ebay.com/itm/385196485739?campid=5338483621&customid=00OCcdnXnFSKcc9QOmh6Ppt&mkcid=1&toolid=10001&mkevt=1&mkrid=711-53200-19255-0",
+    "imgTxt": "iRobot Roomba i4+ EVO 4550 Self-Emptying Robot Vacuum Refurb",
+    "imgSRC": "https://images-na.ssl-images-amazon.com/images/I/71SdV62ogRS._AC_AA200_.jpg",
+    "desc": "Whether you're relaxing at home or out enjoying life, the Roomba i4 plus EVO robot vacuum takes care of stubborn dirt and messes with a Premium 3-Stage Cleaning System and 10x the Power-Lifting Suction. Compared to the Roomba 600 series cleaning system / Roomba i4 plus EVO learns your home and creates an Imprint Smart Map so you can direct it to clean any room you want, any time you want--either on a set schedule or in the moment. ",
+    "price": "$649.99",
+    "curPrice": "$239.99",
+    "memo": "$410 Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"637274\" href=\"https://zdcs.link/4xkbL\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$239.99 + Free Shipping</span></li> </ul>",
+    "timeStamp": "12011756"
+},{
+    "id": 2768538,
+    "title": "up  asdsdcs: The Theoretical Minimum Kindle Edition current Price $4.99",
+    "refLink": "https://www.amazon.com/gp/product/B00FD36G1Q",
+    "imgTxt": "Quantum Mechanics: The Theoretical Minimum Kindle Edition",
+    "imgSRC": "https://images-na.ssl-images-amazon.com/images/I/41RyeWIJTmL._AA200_.jpg",
+    "desc": " In this follow-up to the New York Times best-selling The Theoretical Minimum, Susskind and Friedman provide a lively introduction to this famously difficult field, which attempts to understand the behavior of sub-atomic objects through mathematical abstractions.",
+    "price": "$19.99",
+    "curPrice": "$4.99",
+    "memo": "75% Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"648229\" href=\"https://zdcs.link/O4md8\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$4.99</span> </li>",
+    "timeStamp": "12011756"
+},{
+    "id": 937695,
+    "title": " up Ronson Multi-Fill Ultra Butane Fuel 5.82 oz can current Price $3.96",
+    "refLink": "https://www.walmart.com/ip/seort/40772925?irgwc=1&sourceid=imp_RXc0FryyTxyNUxEyF5VoQ2bTUkA04-3Zux5-000&veh=aff&wmlspartner=imp_1806215&clickid=RXc0FryyTxyNUxEyF5VoQ2bTUkA04-3Zux5-000&sharedid=&affiliates_ad_id=1167790&campaign_id=9383",
+    "imgTxt": "Ronson Multi-Fill Ultra Butane Fuel 5.82 oz can",
+    "imgSRC": "https://i5.walmartimages.com/asr/ca1863e0-e118-49f9-9859-41dc86eb94fc.0d2f80ba2ce73b5fd65c6c066451e2fe.jpeg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+    "desc": "Designed to quickly refuel Ronson Lighters, torches, and other devices powered by butane. Features a universal fueling tip for easy filling. Universal fueling tip; 290ml of Butane with as much fuel as 90 disposable lighters; easy filling and refilling; Dependable, quality product.",
+    "price": "$47.88",
+    "curPrice": "$3.96",
+    "memo": "91% Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"565213\" href=\"https://zdcs.link/7pq1P\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$3.96 + Free in store pickup</span> </li></ul>",
+    "timeStamp": "12011756"
+},{
+    "id": 1898508,
+    "title": "Diamond Supply Co. Mens Quest Mid Lace Up Sneakers current Price $22.45",
+    "refLink": "https://www.shoebacca.com/quest-mid-c16dmfb50-nvy.html?irclickid=TEGQytyyTxyNUxEyF5VoQ2bTUkA04-WBux5-000&ir_cid=394&ir_affname=The%20Black%20Friday&utm_medium=affiliate&utm_source=The%20Black%20Friday",
+    "imgTxt": "Diamond Supply Co. Mens Quest Mid Lace Up Sneakers",
+    "imgSRC": "https://cdn1.shoebacca.com/catalog/product/C/1/C16DMFB50-NVY_1l.jpg?auto=webp&format=pjpg&width=200&fit=cover",
+    "desc": "These leather sneakers bring style to your everyday wear. The leather upper material with heel and tongue pull tabs makes them a comfortable wear that allows an easy slip-on fit. For added detail the perforated accents on the lateral sides and vamp give breathability through every step, and create a pattern that enhances the shoe.",
+    "price": "$120.00",
+    "curPrice": "$22.45",
+    "memo": "81% Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"638236\" href=\"https://zdcs.link/m5LW5\" target=\"_blank\">Click Here</a></strong> and add to cart for $24.95 - 10% off w/coupon <strong>SBDEC10</strong> = <span class=\"cpriceb\">$22.45 + Free Shipping</span></li>\n</ul>",
+    "timeStamp": "12011756"
+},{
+    "id": 1568538,
+    "title": "Lands End Mens All Weather Suede Pull On Boots current Price $39.98",
+    "refLink": "https://www.landsend.com/products/mens-all-weather-suede-pull-on-boots/id_367648?cm_mmc=CJ-_-Lands_End_Home_Generic_DeepLink-_-1397064_3211374-_-Offers.com+-+Vertive%2C+LLC&CJSID=02APLhLZnNx1DVboThXDFAf&AID=11141276&PID=3211374&cjevent=c7b07b0071cb11ed816d03bb0a82b82a&cjdata=MXxOfDB8WXww",
+    "imgTxt": "Lands End Mens All Weather Suede Pull On Boots",
+    "imgSRC": "https://s7.landsend.com/is/image/LandsEnd/532367_LEPP_LF_BLA?wid=200&hei=200",
+    "desc": "Versatile-yet-rugged Pull-on boot styling Durable suede upper Slip-resistant rubber outsole Elastic gore with pull tabs for easy on, easy off Brushed polyester knit lining Cushioned footbed Lands' End logo at outer heel Imported.",
+    "price": "$99.95",
+    "curPrice": "$39.98",
+    "memo": "$60 Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"648225\" href=\"https://zdcs.link/K20JG\" target=\"_blank\">Click Here</a></strong> and add to cart for $99.95 - 60% off w/coupon <strong>DRIFT</strong> (Ends 12/07) = <span class=\"cpriceb\">$39.98 + Free Shipping w/$99+ Order</span></li></ul>",
+    "timeStamp": "12011756"
+},{
+    "id": 2739465,
+    "title": "Jamo S 809 Floorstanding Dolby Atmos Ready Speakers Pair current Price $219.00",
+    "refLink": "https://www.adorama.com/ja1064325.html?emailprice=t&sterm=VwKy0ZyyTxyNUxEyF5VoQ2bTUkA04-Vhux5-000&utm_source=rflaid913078&utm_medium=affiliate",
+    "imgTxt": "Jamo S 809 Floorstanding Dolby Atmos Ready Speakers Pair",
+    "imgSRC": "https://www.adorama.com/images/product/ja1064325.jpg",
+    "desc": "The S 809 is our Jamo Flagship Dolby Atmos tower speaker. Three impressive 127mm (5\") Aluminized Polyfiber Woofers and a 25mm (1\") Soft Dome Tweeter deliver an amazing acoustic performance.",
+    "price": "$749.00",
+    "curPrice": "$219.00",
+    "memo": "71% Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"551319\" href=\"https://zdcs.link/RXLZX\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$219.00 + Free Shipping</span></li></ul>",
+    "timeStamp": "12011756"
+},{
+    "id": 1392885,
+    "title": "3-Pack Wet n Wild Color Icon Kohl Liner Pencil, 0.04 Ounce current Price $0.72",
+    "refLink": "https://www.amazon.com/dp/B09LKTHMWQ",
+    "imgTxt": "3-Pack Wet n Wild Color Icon Kohl Liner Pencil, 0.04 Ounce",
+    "imgSRC": "https://m.media-amazon.com/images/I/21stndwXSeL._AC_AA200_.jpg",
+    "desc": "These long-wearing liners have rich, hyper-pigmented color, an oh-so-smooth, oh-so-creamy application, and are versatile enough to create any look you want No wonder they're so raved about by celebs and makeup artists",
+    "price": "$3.57",
+    "curPrice": "$0.72",
+    "memo": "",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"592464\" href=\"https://zdcs.link/pKogZ\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$0.72 + Free Shipping w/$25+ order</span></li>\n",
+    "timeStamp": "12011756"
+},{
+    "id": 968538,
+    "title": "Shark HE602 Air Purifier 6 With Anti-Allergen Filter Refurb current Price $169.99",
+    "refLink": "https://www.ebay.com/itm/266005081294?campid=5338483621&customid=06DSHke3o5E3DSjjH8Qtl6j&mkcid=1&toolid=10001&mkevt=1&mkrid=711-53200-19255-0",
+    "imgTxt": "Shark HE602 Air Purifier 6 With Anti-Allergen Filter Refurb",
+    "imgSRC": "https://i.ebayimg.com/images/g/a9oAAOSwrf1jfk5E/s-l200.jpg",
+    "desc": "The Shark Air Purifier 6 with Anti-Allergen Multi-Filter uses Clean Sense IQ technology to constantly track air quality and auto-adjust power. It delivers clean air with 6 powerful, quiet fans and anti-allergen HEPA filtration with advanced odor & fumes protection.",
+    "price": "$449.99",
+    "curPrice": "$169.99",
+    "memo": "$280 Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"648223\" href=\"https://zdcs.link/enGBW\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$169.99 + Free Shipping</span> </li>\n<li><strong>Compare Prices</strong>: <a class=\"hit\" data-id=\"648223\" href=\"https://zdcs.link/Ldob0\" target=\"_blank\">Walmart.com</a> - <span class=\"cpriceb\">$449.99</span> (for new product)</li>\n</ul>",
+    "timeStamp": "12011756"
+},{
+    "id": 2698248,
+    "title": "Clanlands Kindle Edition current Price $1.99",
+    "refLink": "https://www.amazon.com/gp/product/B08GKCHKT8",
+    "imgTxt": "Clanlands Kindle Edition",
+    "imgSRC": "https://m.media-amazon.com/images/I/41i79wh-mzL.AA200.jpg",
+    "desc": "Clanlands is the story of their journey. Armed with their trusty campervan and a sturdy friendship, these two Scotsmen are on the adventure of a lifetime to explore the majesty of Scotland. A wild ride by boat, kayak, bicycle and motorbike, they travel from coast to loch and peak to valley and delve into Scotland's history and culture, from timeless poetry to bloody warfare.",
+    "price": "$16.99",
+    "curPrice": "$1.99",
+    "memo": "",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"614998\" href=\"https://zdcs.link/KmjE8\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$1.99</span> </li>",
+    "timeStamp": "12011756"
+},{
+    "id": 668538,
+    "title": "Ello Cole Vacuum Insulated Stainless Steel Water Bottle 16 oz current Price $12.59",
+    "refLink": "https://www.amazon.com/gp/product/B09MGB4Q5Z",
+    "imgTxt": "Ello Cole Vacuum Insulated Stainless Steel Water Bottle 16 oz",
+    "imgSRC": "https://m.media-amazon.com/images/I/61FVkCyHdoL._AC_AA200_.jpg",
+    "desc": "New patented slider lid is 100% leak-proof for easy transport Built-in cork composite coaster base protects surfaces and fits in most cup holders Vacuum insulated stainless steel keeps beverages hot for 5 hours, cold for 12",
+    "price": "$18.99",
+    "curPrice": "$12.59",
+    "memo": "",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"648222\" href=\"https://zdcs.link/XZkDe\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$12.59 + Free Shipping w/$25+ order</span></li>\n",
+    "timeStamp": "12011756"
+},{
+    "id": 2768538,
+    "title": "Quantum Mechanics: The Theoretical Minimum Kindle Edition current Price $4.99",
+    "refLink": "https://www.amazon.com/gp/product/B00FD36G1Q",
+    "imgTxt": "Quantum Mechanics: The Theoretical Minimum Kindle Edition",
+    "imgSRC": "https://images-na.ssl-images-amazon.com/images/I/41RyeWIJTmL._AA200_.jpg",
+    "desc": " In this follow-up to the New York Times best-selling The Theoretical Minimum, Susskind and Friedman provide a lively introduction to this famously difficult field, which attempts to understand the behavior of sub-atomic objects through mathematical abstractions.",
+    "price": "$19.99",
+    "curPrice": "$4.99",
+    "memo": "75% Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"648229\" href=\"https://zdcs.link/O4md8\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$4.99</span> </li>",
+    "timeStamp": "12011756"
+},{
+    "id": 937695,
+    "title": "3452456345 Ronson Multi-Fill Ultra Butane Fuel 5.82 oz can current Price $3.96",
+    "refLink": "https://www.walmart.com/ip/seort/40772925?irgwc=1&sourceid=imp_RXc0FryyTxyNUxEyF5VoQ2bTUkA04-3Zux5-000&veh=aff&wmlspartner=imp_1806215&clickid=RXc0FryyTxyNUxEyF5VoQ2bTUkA04-3Zux5-000&sharedid=&affiliates_ad_id=1167790&campaign_id=9383",
+    "imgTxt": "Ronson Multi-Fill Ultra Butane Fuel 5.82 oz can",
+    "imgSRC": "https://i5.walmartimages.com/asr/ca1863e0-e118-49f9-9859-41dc86eb94fc.0d2f80ba2ce73b5fd65c6c066451e2fe.jpeg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+    "desc": "Designed to quickly refuel Ronson Lighters, torches, and other devices powered by butane. Features a universal fueling tip for easy filling. Universal fueling tip; 290ml of Butane with as much fuel as 90 disposable lighters; easy filling and refilling; Dependable, quality product.",
+    "price": "$47.88",
+    "curPrice": "$3.96",
+    "memo": "91% Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"565213\" href=\"https://zdcs.link/7pq1P\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$3.96 + Free in store pickup</span> </li></ul>",
+    "timeStamp": "12011756"
+},{
+    "id": 1898508,
+    "title": "dsgfvvget5636345Diamond Supply Co. Mens Quest Mid Lace Up Sneakers current Price $22.45",
+    "refLink": "https://www.shoebacca.com/quest-mid-c16dmfb50-nvy.html?irclickid=TEGQytyyTxyNUxEyF5VoQ2bTUkA04-WBux5-000&ir_cid=394&ir_affname=The%20Black%20Friday&utm_medium=affiliate&utm_source=The%20Black%20Friday",
+    "imgTxt": "Diamond Supply Co. Mens Quest Mid Lace Up Sneakers",
+    "imgSRC": "https://cdn1.shoebacca.com/catalog/product/C/1/C16DMFB50-NVY_1l.jpg?auto=webp&format=pjpg&width=200&fit=cover",
+    "desc": "These leather sneakers bring style to your everyday wear. The leather upper material with heel and tongue pull tabs makes them a comfortable wear that allows an easy slip-on fit. For added detail the perforated accents on the lateral sides and vamp give breathability through every step, and create a pattern that enhances the shoe.",
+    "price": "$120.00",
+    "curPrice": "$22.45",
+    "memo": "81% Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"638236\" href=\"https://zdcs.link/m5LW5\" target=\"_blank\">Click Here</a></strong> and add to cart for $24.95 - 10% off w/coupon <strong>SBDEC10</strong> = <span class=\"cpriceb\">$22.45 + Free Shipping</span></li>\n</ul>",
+    "timeStamp": "12011756"
+},{
+    "id": 1568538,
+    "title": "345345wcgsdgLands End Mens All Weather Suede Pull On Boots current Price $39.98",
+    "refLink": "https://www.landsend.com/products/mens-all-weather-suede-pull-on-boots/id_367648?cm_mmc=CJ-_-Lands_End_Home_Generic_DeepLink-_-1397064_3211374-_-Offers.com+-+Vertive%2C+LLC&CJSID=02APLhLZnNx1DVboThXDFAf&AID=11141276&PID=3211374&cjevent=c7b07b0071cb11ed816d03bb0a82b82a&cjdata=MXxOfDB8WXww",
+    "imgTxt": "Lands End Mens All Weather Suede Pull On Boots",
+    "imgSRC": "https://s7.landsend.com/is/image/LandsEnd/532367_LEPP_LF_BLA?wid=200&hei=200",
+    "desc": "Versatile-yet-rugged Pull-on boot styling Durable suede upper Slip-resistant rubber outsole Elastic gore with pull tabs for easy on, easy off Brushed polyester knit lining Cushioned footbed Lands' End logo at outer heel Imported.",
+    "price": "$99.95",
+    "curPrice": "$39.98",
+    "memo": "$60 Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"648225\" href=\"https://zdcs.link/K20JG\" target=\"_blank\">Click Here</a></strong> and add to cart for $99.95 - 60% off w/coupon <strong>DRIFT</strong> (Ends 12/07) = <span class=\"cpriceb\">$39.98 + Free Shipping w/$99+ Order</span></li></ul>",
+    "timeStamp": "12011756"
+},{
+    "id": 2739465,
+    "title": "34535656 ####Jamo S 809 Floorstanding Dolby Atmos Ready Speakers Pair current Price $219.00",
+    "refLink": "https://www.adorama.com/ja1064325.html?emailprice=t&sterm=VwKy0ZyyTxyNUxEyF5VoQ2bTUkA04-Vhux5-000&utm_source=rflaid913078&utm_medium=affiliate",
+    "imgTxt": "Jamo S 809 Floorstanding Dolby Atmos Ready Speakers Pair",
+    "imgSRC": "https://www.adorama.com/images/product/ja1064325.jpg",
+    "desc": "The S 809 is our Jamo Flagship Dolby Atmos tower speaker. Three impressive 127mm (5\") Aluminized Polyfiber Woofers and a 25mm (1\") Soft Dome Tweeter deliver an amazing acoustic performance.",
+    "price": "$749.00",
+    "curPrice": "$219.00",
+    "memo": "71% Off",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"551319\" href=\"https://zdcs.link/RXLZX\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$219.00 + Free Shipping</span></li></ul>",
+    "timeStamp": "12011756"
+},{
+    "id": 1392885,
+    "title": "sd444444353453-Pack Wet n Wild Color Icon Kohl Liner Pencil, 0.04 Ounce current Price $0.72",
+    "refLink": "https://www.amazon.com/dp/B09LKTHMWQ",
+    "imgTxt": "3-Pack Wet n Wild Color Icon Kohl Liner Pencil, 0.04 Ounce",
+    "imgSRC": "https://m.media-amazon.com/images/I/21stndwXSeL._AC_AA200_.jpg",
+    "desc": "These long-wearing liners have rich, hyper-pigmented color, an oh-so-smooth, oh-so-creamy application, and are versatile enough to create any look you want No wonder they're so raved about by celebs and makeup artists",
+    "price": "$3.57",
+    "curPrice": "$0.72",
+    "memo": "",
+    "moreInfo": "<ul><li><strong><a class=\"hit\" data-id=\"592464\" href=\"https://zdcs.link/pKogZ\" target=\"_blank\">Click Here</a></strong> and add to cart for <span class=\"cpriceb\">$0.72 + Free Shipping w/$25+ order</span></li>\n",
+    "timeStamp": "12011756"
 }
+]
